@@ -1,20 +1,18 @@
-![Logo](protfile/images/pf.png)
+# 🌐 Situs Web Portofolio Saya
 
-# 🌐 My Portfolio Website
-
-A sleek, responsive, and interactive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.  
-Designed to introduce myself skills, projects, and experience with elegant animations and smooth user interactions.
+Sebuah situs web portofolio pribadi yang ramping, responsif, dan interaktif dibangun menggunakan **HTML**, **CSS**, dan **JavaScript**.  
+Dirancang untuk memperkenalkan keterampilan, proyek, dan pengalaman saya dengan animasi elegan dan interaksi pengguna yang lancar.
 
 ---
 
-## 🔗 Live Demo
-You can preview the portfolio online demo here: [Live Demo](https://dazzling-daffodil-0180fd.netlify.app/)
+## 🔗 Demo Langsung
+Anda dapat melihat pratinjau demo portofolio online di sini: [Demo Langsung](https://alfareza26.github.io/My-Portfolio/)
 
 ---
 
-## 🧰 Tools & Technologies
-| Category | Tools Used |
-|-----------|-------------|
+## 🧰 Alat & Teknologi
+| Kategori | Alat yang Digunakan |
+|-----------|---------------------|
 | **Frontend** | HTML5, CSS3, JavaScript (ES6) |
 | **Styling** | Flexbox, Grid, Transitions, Keyframes |
 | **Icons** | Font Awesome / Boxicons |
@@ -25,46 +23,43 @@ You can preview the portfolio online demo here: [Live Demo](https://dazzling-daf
 
 ---
 
-## 📂 Project Structure
+## 📂 Struktur Proyek
 
 ```bash
 📦 modern-portfolio-website
- ┣ 📜 index.html          # Main HTML file
- ┣ 📜 style.css           # Website styling
- ┣ 📜 script.js           # Main JavaScript file
- ┣ 📂 assets              # Folder containing all assets
- ┃ ┣ 📂 images            # Images and logos
- ┃ ┣ 📂 icons             # SVGs or icons
- ┃ ┗ 📂 fonts             # Custom fonts (optional)
- ┗ 📜 README.md           # Project documentation
+ ┣ 📜 index.html          # File HTML utama
+ ┣ 📜 style.css           # Styling situs web
+ ┣ 📜 script.js           # File JavaScript utama
+ ┣ 📂 assets              # Folder yang berisi semua aset
+ ┃ ┣ 📂 images            # Gambar dan logo
+ ┗ 📜 README.md           # Dokumentasi proyek
 ```
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Cara Menjalankan Secara Lokal
 
-### 1️⃣ Clone the Repository
+### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/Saboo24/portfolio-website.git
+git clone https://github.com/Alfareza26/My-Portfolio.git
 ```
-### 2️⃣ Open the Folde
+### 2️⃣ Buka Folder
 ```bash
 cd portfolio-website
 ```
-3️⃣ Run the Website
-Open the file index.html directly in your browser — that’s it 🎉
-You’ll see your personal portfolio running locally
+### 3️⃣ Jalankan Situs Web
+Buka file index.html langsung di browser Anda — itu saja 🎉
+Anda akan melihat portofolio pribadi Anda berjalan secara lokal
 
 ---
 
-## 📬 Contact
+## 📬 Kontak
 
-- Email: alffsenpai2667@gmail.com   
-- Location: Semarang, Jawa Tengah  
-- LinkedIn: [LinkedIn]  
+- Email: [Email](alffsenpai2667@gmail.com)   
+- Lokasi: Semarang, Jawa Tengah
 - GitHub: [GitHub](https://github.com/Alfareza26)  
 - Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
 - WhatsApp: [WhatsApp] (https://wa.me/6285147048272)
 
 ---
 
-Made with ❤️ by **Alff Senpai**
+Dibuat dengan ❤️ oleh **Alff Senpai**
