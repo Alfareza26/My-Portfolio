@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+client/node_modules/
+
+# Build output
+client/dist/
+
+# Environment & Logs
+.env
+*.log
+npm-debug.log*
+
+# Editor directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Server backend (tidak diperlukan di GitHub karena sudah dipindah ke data.js)
+server.js
