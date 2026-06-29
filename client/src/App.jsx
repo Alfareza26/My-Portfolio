@@ -1,9 +1,9 @@
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import About from './components/About';
-import Skills from './components/Skills';
-import Projects from './components/Projects';
-import Footer from './components/Footer';
+import Navbar from './components/navbar';
+import Hero from './components/hero';
+import About from './components/about';
+import Skills from './components/skills';
+import Projects from './components/projects';
+import Footer from './components/footer';
 import { portfolioData } from './data'; // Import langsung dari file data
 
 function App() {
