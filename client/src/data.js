@@ -28,8 +28,8 @@ export const portfolioData = {
     status: "Evolving",
     categories: [
       { name: "Frontend", icon: "◆", items: ["HTML5", "CSS3", "JavaScript", "React", "Tailwind CSS", "Framer Motion", "Next.js"] },
-      { name: "Backend", icon: "▲", items: ["Node.js", "Express.js", "Python", "Flask", "MongoDB"] },
-      { name: "Tools & Others", icon: "●", items: ["Git", "GitHub", "VS Code", "Canva", "Figma", "Postman"] }
+      { name: "Backend", icon: "▲", items: ["Node.js", "Express.js", "Python", "MongoDB"] },
+      { name: "Tools & Others", icon: "●", items: ["Git", "GitHub", "VS Code", "Canva", "Figma"] }
     ]
   },
   projects: {
@@ -38,7 +38,7 @@ export const portfolioData = {
     list: [
       { name: "ModernCalc", tech: "HTML / CSS / JavaScript", desc: "Kalkulator modern dengan desain shader dan UI yang elegan. Membuktikan bahwa bahkan tool sederhana bisa terasa premium.", link: "https://github.com/Alfareza26/ModernCalc", color: "#ffcc00" },
       { name: "Project Scheduling", tech: "JavaScript / Web App", desc: "Aplikasi penjadwalan berbasis web untuk mengelola tugas dan deadline secara efisien.", link: "https://github.com/Alfareza26/Project-Scedulling", color: "#ff6b35" },
-      { name: "Landing Page", tech: "HTML / CSS / JavaScript", desc: "Landing Page penjualan Nasi Goreng untuk efisiensi pelanggan.", link: "https://github.com/Alfareza26/Sego-Goreng", color: "#00d4ff" },
+      { name: "Sego Goreng", tech: "HTML / CSS / JavaScript", desc: "Landing Page penjualan Nasi Goreng untuk efisiensi pelanggan.", link: "https://github.com/Alfareza26/Sego-Goreng", color: "#00d4ff" },
       { name: "Python Programs", tech: "Python / Algorithm", desc: "Kumpulan implementasi logika dan algoritma dasar dalam Python. Fondasi dari computational thinking.", link: "https://github.com/Alfareza26/Program-Python-Sederhana", color: "#00d4ff" }
     ]
   },
