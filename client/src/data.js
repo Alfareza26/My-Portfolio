@@ -27,7 +27,7 @@ export const portfolioData = {
     subtitle: "Equipped with a diverse toolkit to engineer high-octane digital experiences.",
     status: "Evolving",
     categories: [
-      { name: "Frontend", icon: "◆", items: ["HTML5", "CSS3", "JavaScript", "React", "Tailwind CSS", "Framer Motion", "Next.js"] },
+      { name: "Frontend", icon: "◆", items: ["HTML5", "CSS3", "JavaScript", "React", "Tailwind CSS", "Next.js"] },
       { name: "Backend", icon: "▲", items: ["Node.js", "Express.js", "Python", "MongoDB"] },
       { name: "Tools & Others", icon: "●", items: ["Git", "GitHub", "VS Code", "Canva", "Figma"] }
     ]
