@@ -69,8 +69,6 @@ Buka browser dan akses `http://localhost:5173` untuk melihat website berjalan se
 ## 🌐 Deployment
 Proyek ini di-deploy secara otomatis menggunakan **Vercel** melalui integrasi GitHub. Setiap *push* ke branch `main` akan memicu *deployment* baru.
 
-👉 **[Lihat Live Demo di Sini]** *(Ganti teks ini dengan link Vercel Anda setelah berhasil deploy)*
-
 ## 📫 Kontak & Sosial
 Saya selalu terbuka untuk berdiskusi tentang proyek, teknologi, atau peluang kolaborasi!
 
