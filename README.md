@@ -72,9 +72,9 @@ Proyek ini di-deploy secara otomatis menggunakan **Vercel** melalui integrasi Gi
 ## 📫 Kontak & Sosial
 Saya selalu terbuka untuk berdiskusi tentang proyek, teknologi, atau peluang kolaborasi!
 
-- 📧 **Email**: [alffsenpai2667@gmail.com](mailto:alffsenpai2667@gmail.com)
-- 💼 **GitHub**: [github.com/Alfareza26](https://github.com/Alfareza26)
-- 📱 **WhatsApp**: [+62 851-4704-8272](https://wa.me/6285147048272)
+- 📧 **Email**: [Gmail](mailto:alffsenpai2667@gmail.com)
+- 💼 **GitHub**: [Github](https://github.com/Alfareza26)
+- 📱 **WhatsApp**: [WhatsApp](https://wa.me/6285147048272)
 - 📍 **Lokasi**: Semarang, Jawa Tengah (ITESA Muhammadiyah Semarang)
 
 ---
