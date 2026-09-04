@@ -1,11 +1,11 @@
 // client/src/data.js
 export const portfolioData = {
   hero: {
-    line1: "BEYOND",
-    line2: "MODERN",
-    line3: "EXPERIENCE.",
-    subtitle: "Digital Products for the Next Era.",
-    cta: "Explore Works",
+    line1: "SHAPING",
+    line2: "TOMORROW'S",
+    line3: "REALM.",
+    subtitle: "Where Design Meets the Future of Interaction.",
+    cta: "Discover More",
     scrollText: "SCROLL DOWN"
   },
   about: {
